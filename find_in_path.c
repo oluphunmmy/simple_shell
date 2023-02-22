@@ -120,4 +120,5 @@ int check_file(char *full_path)
 	/*if not exist the file*/
 	errno = 127;
 	return (127);
+	/* check */
 }
